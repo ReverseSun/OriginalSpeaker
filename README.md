@@ -9,3 +9,5 @@ The first example of the code will just send a square wave to the piezo, while t
 
 The other thing to remember is that Piezos have polarity, commercial devices are usually having a red and a black wires indicating how to plug it to the board. We connect the black one to ground and the red one to the output. Sometimes it is possible to acquire Piezo elements without a plastic housing, then they will just look like a metallic disc.
 </h3>
+
+![](http://static.flickr.com/31/53523608_3d4268ba68_o.jpg)
